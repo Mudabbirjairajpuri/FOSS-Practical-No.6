@@ -1,2 +1,2 @@
 # FOSS-Practical-No.6
-# By CARMELITA DABRE MAM
+# By Carmileta MaM
